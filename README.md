@@ -1,3 +1,7 @@
+# Proof of Work vs. Proof of Stake
+## Abstract
+### Abstract
+
 Blockchain technologies, however recent, have become popularized
 especially due to their use in the finance sector. Despite the benefits
 blockchain technologies offer, there is a growing concern over their
