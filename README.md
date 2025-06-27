@@ -10,8 +10,7 @@ some blockchains have started to move away from PoW into other
 mechanisms, with Proof of Stake (PoS) being pushed as a suitable
 alternative to keep the integrity of blockchain’s while reducing
 energy consumption. While research has showed that PoS does
-indeed consume less energy, the is not a lot of research that fo-
-cuses on directly comparing the two mechanisms in two different
+indeed consume less energy, the is not a lot of research that focuses on directly comparing the two mechanisms in two different
 blockchains. As such, this paper intended to address this problem by
 directly comparing these two mechanisms across different metrics
 (CPU usage, memory usage, disk usage and network traffic). For
